@@ -1,3 +1,10 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# Radha Rani
+
+**Software Engineer**
+
 # 💫 About Me:
 🔭I'm currently working on: Building a portfolio to showcase my skills and projects<br>🌱 Learning: TypeScript and refining my front-end development expertise<br>🤝 Looking to: Collaborate with other developers and expand my knowledge in front-end technologies<br>📫Contact me: nradharani1998@gmail.com<br>⚡ Fun fact: Talking to rubber duck truly works
 
@@ -15,8 +22,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=radha-rani-n&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=radha-rani-n&limit=5&theme=dark&combine_all_yearly_contributions=true)
