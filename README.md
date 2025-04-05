@@ -6,7 +6,7 @@
 **Software Engineer**
 
 # 💫 About Me:
-🔭 I'm currently working on: Building a portfolio to showcase my skills and projects<br>🌱  Learning: TypeScript and refining my front-end development expertise<br>🤝 Looking to: Collaborate with other developers and expand my knowledge in front-end technologies<br>🚀 Portoflio:https://radha-rani-n.github.io/portfolio/<br> 📫 Contact me: nradharani1998@gmail.com<br>⚡ Fun fact: Talking to rubber duck truly works
+🔭 I'm currently working on: Personal Project called LetsSwap<br>🌱  Learning: TypeScript and refining my front-end development expertise<br>🤝 Looking to: Collaborate with other developers and expand my knowledge in front-end technologies<br>🚀 Portoflio:https://radha-rani-n.github.io/portfolio/<br> 📫 Contact me: nradharani1998@gmail.com<br>⚡ Fun fact: Talking to rubber duck truly works
 
 
 ## 🌐 Socials:
